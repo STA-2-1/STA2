@@ -1,0 +1,178 @@
+[00:45:43] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[00:45:44] [main/WARN]: Warnings were found!
+ - Mod 'Infinite Fluid Bucket' (infinite_fluid_bucket) 0.5.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[00:45:44] [main/INFO]: Loading 81 mods:
+	- balm-fabric 21.0.20
+	   \-- kuma_api 21.0.5-SNAPSHOT
+	- bee_info 1.3
+	- carpet 1.4.147+v240613
+	- carpet-extra 1.4.148
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- clumps 18.0.0.2
+	- collective 7.84
+	- entityculling 1.7.0
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- ferritecore 7.0.0
+	- infinite_fluid_bucket 0.5.0
+	- infinitetrading 4.5
+	- java 21
+	- jei 19.21.0.246
+	- journeymap 1.21-6.0.0-beta.27
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.16-1.21
+	   \-- journeymap-api-fabric 2.0.0-1.21-SNAPSHOT
+	- ksyxis 1.3.2
+	- lithium 0.13.1
+	- minecraft 1.21
+	- mob_catcher 1.5.7
+	   \-- blue_endless_jankson 1.2.3
+	- modernfix 5.19.1+mc1.21
+	- naturescompass 1.21-2.2.6-fabric
+	- noisium 2.3.0+mc1.21-1.21.1
+	- owo 0.12.15+1.21
+	   |-- io_wispforest_endec 0.1.5
+	   |-- io_wispforest_endec_gson 0.1.3
+	   |-- io_wispforest_endec_jankson 0.1.3
+	   \-- io_wispforest_endec_netty 0.1.2
+	- packedup 1.0.30+b
+	- raid-restore 1.0.0
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17+c
+	- threadtweak 0.1.4+mc1.21
+	- trade_cycling 1.21.1-1.0.15
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	   \-- fabric-screen-api-v1 2.0.24+b55973446a
+	- trinkets 3.10.0
+	   |-- cardinal-components-base 6.1.0
+	   \-- cardinal-components-entity 6.1.0
+	- waystones 21.1.4
+[00:45:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/STA2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:45:44] [main/INFO]: Compatibility level set to JAVA_17
+[00:45:44] [main/INFO]: Compatibility level set to JAVA_21
+[00:45:44] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:45:44] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:45:44] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 1 override(s) found
+[00:45:45] [main/INFO]: Loaded configuration file for ModernFix 5.19.1+mc1.21: 54 options available, 1 override(s) found
+[00:45:45] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+[00:45:45] [main/INFO]: Applying Nashorn fix
+[00:45:45] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:45:46] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[00:45:46] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[00:45:46] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[00:45:46] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[00:45:46] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[00:45:46] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[00:45:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:45:47] [main/INFO]: ThreadTweak config initialized
+[00:45:51] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[00:45:51] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[00:45:51] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[00:45:52] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[00:45:58] [main/INFO]: Vanilla bootstrap took 8521 milliseconds
+[00:45:58] [main/INFO]: Hello from bee_info (Fabric)
+[00:45:58] [main/INFO]: Hello from bee_info
+[00:45:58] [main/INFO]: Loading Collective version 7.84.
+[00:45:58] [main/INFO]: Initializing ServerSide Packet Registries
+[00:45:58] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[00:45:58] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[00:45:58] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[00:45:58] [main/OFF]: mob_catcher config settings json5 found
+[00:45:58] [main/INFO]: Loading Noisium.
+[00:45:58] [main/INFO]: Cheese Cheese Creeper, the newest release from MC Basic
+[00:45:59] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:46:02] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/husk}.pools[2].entries[0]: Unknown loot table called husks_drop_sand:entities/husk
+[00:46:02] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/villager}.pools[2].entries[0]: Unknown loot table called villager_death:entities/villager
+[00:46:02] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called bat_membranes:entities/bat
+[00:46:02] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
+[00:46:04] [main/INFO]: Loaded 1349 recipes
+[00:46:04] [main/INFO]: Loaded 1470 advancements
+[00:46:04] [main/INFO]: Applied 64 biome modifications to 64 of 64 new biomes in 21.98 ms
+[00:46:04] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:46:04] [Server thread/INFO]: Loading properties
+[00:46:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:46:04] [Server thread/INFO]: Generating keypair
+[00:46:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:46:05] [Server thread/INFO]: Using epoll channel type
+[00:46:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:46:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:46:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:46:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:46:05] [Server thread/INFO]: Preparing level "world"
+[00:46:05] [Server thread/INFO]: [CM] Loaded 8 settings from carpet.conf
+[00:46:05] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[00:46:06] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[00:46:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:46:06] [Server thread/INFO]: Time elapsed: 2 ms
+[00:46:06] [Server thread/INFO]: Done (0.741s)! For help, type "help"
+[00:46:06] [Server thread/WARN]: Dedicated server took 24.245 seconds to load
+[00:46:06] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[00:46:06] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@a772e05 for service interface journeymap.api.services.ClientPlatformService
+[00:46:06] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@bbd01fc for service interface journeymap.api.services.CommonPlatformService
+[00:46:56] [Server thread/INFO]: Aldo1509[/127.242.189.54:51571] logged in with entity id 1 at (-190.75127332889275, 67.0, -187.551167857234)
+[00:46:56] [Server thread/INFO]: Aldo1509 joined the game
+[00:46:58] [Server thread/INFO]: Player Aldo1509 joined with a matching carpet client
+[00:47:01] [Server thread/INFO]: Aldo1509 lost connection: Disconnected
+[00:47:01] [Server thread/INFO]: Aldo1509 left the game
+[00:47:07] [Server thread/INFO]: Stopping the server
+[00:47:07] [Server thread/INFO]: Stopping server
+[00:47:07] [Server thread/INFO]: Saving players
+[00:47:07] [Server thread/INFO]: Saving worlds
+[00:47:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:47:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:47:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
